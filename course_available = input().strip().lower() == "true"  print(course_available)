@@ -1,0 +1,4 @@
+# Accept course availability as boolean input and print it
+
+course= bool(input())
+print(course)
