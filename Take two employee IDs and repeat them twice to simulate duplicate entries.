@@ -1,0 +1,5 @@
+# Take two employee IDs and repeat them twice to simulate duplicate entries.
+
+eid= (int(input()), int(input()))
+e_id= eid * 2
+print(e_id)
